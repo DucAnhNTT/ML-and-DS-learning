@@ -39,10 +39,9 @@ The course emphasizes hands-on learning through real-world projects. These proje
 ## How to Use This Repository 📚
 
 1. **Clone the Repository:**
-'''
+```
     git clone https://github.com/DucAnhNTT/ML-and-DS-learning.git
-'''
-
+```
 2. **Navigate to Project Directories:**
 - Each project has its own directory. Navigate to a specific project directory to access its code and resources.
 
@@ -61,10 +60,11 @@ The course emphasizes hands-on learning through real-world projects. These proje
 
 ## Additional Resources 📚
 
-- [Link to Additional Resources](additional_resources_link) - Additional materials, cheatsheets, and resources to complement your learning.
+- [Numpy Cheat Sheet](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python) 
+- [Matplotlib Cheat Sheet](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python) 
 
 ## Community 🌐
-Join our live online community of 900,000+ engineers on [Platform Name](community_link).
+Join our live online community of 900,000+ engineers on [Discord](https://zerotomastery.io/community/developer-community-discord/).
 
 ## Acknowledgments 🙌
 We appreciate your interest in the course! If you have any questions or feedback, feel free to reach out to the instructors.
